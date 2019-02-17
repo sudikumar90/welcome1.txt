@@ -4,5 +4,10 @@ see u
 okay
 kdhd
 djgeafgj
+<<<<<<< HEAD
 kshKDJa
 kafgajf
+=======
+ASJKDASKSH
+ADBJASDKJ
+>>>>>>> a4dd98a0dfdf06787b7e6240b88387e340c9a75d
